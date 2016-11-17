@@ -1,0 +1,161 @@
+body {
+	font-family: 'Lato', sans-serif;
+
+}
+
+body {
+	background-image: url("images/background.png");
+	background-size: cover;
+	/*background-attachment: fixed; */
+	color: white;
+	height: 100%;
+}
+
+
+
+h1 {
+	font-weight: 400;
+	font-size: 57px;
+	text-align: left;
+	color: white;
+	margin-top: 0px;
+	margin-bottom: -5px;
+}
+
+h2 {
+	font-weight: 400;
+	font-size: 43px;
+	text-align: left;
+	color: white;
+	margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+h3 {
+	font-weight: 300;
+	font-size: 30px;
+}
+
+p {
+	font-weight: 100;
+	font-size: 17px;
+	text-align: left;
+}
+
+input {
+    display: block;
+    width: 80%;
+    background: white;
+    border: transparent 2px solid;
+    resize: none;
+    padding: 7px;
+    margin: 0 0 20px 0;
+    color: black;
+}
+
+#footer {
+	margin-top: 6em;
+}
+
+
+
+.spacer {
+	padding: 1em 0;
+}
+
+.minispacer {
+	padding: 15px 0;
+}
+
+.miniminispacer {
+	padding: 2px 0;
+}
+
+.picto {
+	width: 100px;
+	display: block;
+	margin: 0 auto;
+
+}
+
+.text-center {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 21px;
+	font-weight: 200;
+	font-weight: 300;
+}
+
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+strong {
+	color: #2A324B;
+}
+
+.btnalone {
+	font-size: 18px;
+	font-weight: 300;
+}
+
+.btn {
+	border : 0px solid transparent;
+}
+
+.btn-default {
+	padding-bottom: 0px;
+	text-align: center;
+	background-color: #E86C4C;
+	padding: 15px 20px;
+	border-radius: 0px;
+	color: white;
+	transition: background-color 0.3s ease;
+}
+
+.btn-default:hover {
+	color: white;
+	background-color: #2A324B;
+}
+
+.btn-white {
+	padding-bottom: 0px;
+	text-align: center;
+	background-color: white;
+	padding: 15px 20px;
+	border-radius: 0px;
+	color: #2A324B;
+	transition: background-color 0.3s ease;
+}
+
+.btn-white:hover {
+	color: white;
+	background-color: #2A324B;
+}
+
+
+.bold {
+	font-weight: 400;
+}
+
+.form-control {
+	border: 0px solid white;
+    border-radius: 0px;
+    height: 50px;
+    width: 100%;
+}
+
+.form-inline .form-group input {
+    width: 500px;
+}
+
+input {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 200;
+	font-size: 20px;
+}
