@@ -4,8 +4,8 @@ body {
 }
 
 body {
-	background-image: url("images/background.png");
-	background-size: cover no-repeat;
+	background-image: url("images/background.jpg");
+	background-size: cover;
 	/*background-attachment: fixed; */
 	color: white;
 	height: 100%;
