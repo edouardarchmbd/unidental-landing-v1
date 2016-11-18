@@ -1,5 +1,6 @@
 body {
 	font-family: 'Lato', sans-serif;
+	background-color: #EEEEEE;
 
 }
 
@@ -8,7 +9,11 @@ body {
 	background-size: cover;
 	/*background-attachment: fixed; */
 	color: white;
-	height: 100%;
+}
+
+#header {
+	background-image: url("images/background2.png");
+	background-size: cover;
 }
 
 
@@ -54,7 +59,7 @@ input {
 }
 
 #footer {
-	margin-top: 6em;
+	margin-top: 7em;
 }
 
 
